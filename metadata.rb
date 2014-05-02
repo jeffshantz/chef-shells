@@ -1,0 +1,10 @@
+name             'shells'
+maintainer       'Jeff Shantz'
+maintainer_email 'Western University'
+license          'Apache 2.0'
+description      'Manages the shells installed on a system.'
+long_description 'Manages the shells installed on a system.'
+version          '0.1.0'
+
+supports 'ubuntu', '>= 12.04'
+supports 'centos', '>= 6.5'
